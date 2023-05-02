@@ -2,6 +2,9 @@
 
 I was working as a part of a team on this project, i was responsible for setting up the authintication, the add subsecription, with the events associated with it, as well as setting up the email reminder.
 
+This is my local copy of the project, for more information on the deployed project please follow the link:
+https://github.com/SubMinder-Group-Project/SubMinder
+
 ## Get SubMinder, the ultimate subscription wingman! 
 
 Keep tabs on all your subscriptions and free trials, track renewal and cancellation dates with the built-in calendar, and set up payment and trial end reminders.
